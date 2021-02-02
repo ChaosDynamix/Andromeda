@@ -11,6 +11,7 @@ assignees: ChaosDynamix
 
 ### Affected section(s)
 - :x: Documentation
+- :x: Repository
 - :heavy_check_mark: Package
 
 ### Description
