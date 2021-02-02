@@ -1,7 +1,7 @@
 {
   "name": "Andromeda",
-  "version": "1.0.0",
-  "description": "Personal site",
+  "version": "0.0.1",
+  "description": "Personal website",
   "main": "index.js",
   "scripts": {
   },
@@ -10,8 +10,8 @@
     "url": "git+https://github.com/ChaosDynamix/Andromeda.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Chaosdynamix",
+  "license": "0BSD",
   "bugs": {
     "url": "https://github.com/ChaosDynamix/Andromeda/issues"
   },
