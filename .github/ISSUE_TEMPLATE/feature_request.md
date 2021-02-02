@@ -11,6 +11,7 @@ assignees: ChaosDynamix
 
 ### Relevant section(s)
 - :x: Documentation
+- :x: Repository
 - :heavy_check_mark: Package
 
 ### Description
