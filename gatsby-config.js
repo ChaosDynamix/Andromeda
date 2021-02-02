@@ -1,4 +1,4 @@
 module.exports = {
   pathPrefix: "/Andromeda",
-  plugins: [],
+  plugins: ["gatsby-plugin-postcss"],
 }
