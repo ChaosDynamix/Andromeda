@@ -10,9 +10,9 @@ assignees: ChaosDynamix
 # Error report
 
 ### Affected section(s)
-- :x: Documentation
+- :heavy_check_mark: Build system
+- :x: Website
 - :x: Repository
-- :heavy_check_mark: Package
 
 ### Description
 A clear and concise description of the problem...
