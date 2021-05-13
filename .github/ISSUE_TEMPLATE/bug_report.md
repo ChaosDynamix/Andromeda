@@ -1,5 +1,5 @@
 ---
-name: Error report
+name: Bug report
 about: Report a error/bug in the project.
 title: ''
 labels: ''
@@ -7,7 +7,7 @@ assignees: ChaosDynamix
 
 ---
 
-# Error report
+# Bug report
 
 ### Affected section(s)
 - :heavy_check_mark: Build system
@@ -17,7 +17,7 @@ assignees: ChaosDynamix
 ### Description
 A clear and concise description of the problem...
 
-## Exception or error
+## Exception or error message
 ```
 paste the message here...
 ```
