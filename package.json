@@ -18,16 +18,16 @@
   },
   "homepage": "https://github.com/ChaosDynamix/Andromeda#readme",
   "dependencies": {
-    "@primer/octicons-react": "^11.3.0",
-    "autoprefixer": "^10.2.4",
-    "gatsby": "^2.31.1",
-    "gatsby-plugin-postcss": "^3.6.0",
-    "postcss": "^8.2.4",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "@primer/octicons-react": "^13.0.0",
+    "autoprefixer": "^10.2.5",
+    "gatsby": "^3.5.0",
+    "gatsby-plugin-postcss": "^4.5.0",
+    "postcss": "^8.2.15",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "devDependencies": {
     "gh-pages": "^3.1.0",
-    "tailwindcss": "^2.0.2"
+    "tailwindcss": "^2.1.2"
   }
 }
