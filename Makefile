@@ -1,12 +1,16 @@
 SHELL = /bin/sh
 
 # Launch command as recipes
-.PHONY: clean server
+.PHONY: clean install server
 
 # Clean Gatsby cache and public folders
 clean:
 	gatsby clean
 
+# Install NodeJS modules
+install:
+	npm install
+
 # Launch Gatsby development server
-server: clean
+server: clean install
 	gatsby develop
